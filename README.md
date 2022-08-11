@@ -1,0 +1,2 @@
+# foodclassifacation
+taomlarni ajratuvchi model
